@@ -24,7 +24,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<a href="https://github.com/omari1914/iOS-Projects/blob/master/obrandtTipDemo.gif" target="_blank"><img src='https://github.com/omari1914/iOS-Projects/blob/master/obrandtTipDemo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
+<a href="https://github.com/omari1914/Tip-Calculator/blob/master/obrandtTipDemo.gif" target="_blank"><img src='https://github.com/omari1914/Tip-Calculator/blob/master/obrandtTipDemo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
